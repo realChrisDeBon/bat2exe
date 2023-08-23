@@ -6,3 +6,5 @@ Batch to exe converter takes first argument as target .bat file, and second argu
 If program is launched without full argument count, user will be prompted manually to fill values.
 
 Feel free to do what you want with this program.
+
+![7wmjxn](https://github.com/realChrisDeBon/bat2exe/assets/97779307/6b3160dd-21b2-459b-880a-6ac77d20ca0e)
